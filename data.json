@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Ulfa",
+            "email": "ulfa@gmail.com",
+            "experience": "1",
+            "level": "1"
+        },
+        {
+            "id": 2,
+            "username": "Anna",
+            "email": "anna@gmail.com",
+            "experience": "2",
+            "level": "2"
+        },
+        {
+            "id": 3,
+            "username": "Alya",
+            "email": "alya@gmail.com",
+            "experience": "3",
+            "level": "3"
+        },
+        {
+            "id": 4,
+            "username": "Affa",
+            "email": "affa@gmail.com",
+            "experience": "4",
+            "level": "4"
+        },
+        {
+            "id": 5,
+            "username": "Azka",
+            "email": "azka@gmail.com",
+            "experience": "5",
+            "level": "5"
+        }
+    ]
+}
